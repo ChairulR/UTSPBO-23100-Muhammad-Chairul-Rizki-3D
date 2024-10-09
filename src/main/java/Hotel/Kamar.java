@@ -11,7 +11,6 @@ public class Kamar implements KamarInter {
     private int kamarStandard = 30;
     private int kamarDeluxe = 20;
     private int kamarSuperior = 15;
-
     private ArrayList<Customer> daftarCustomer = new ArrayList<>();
 
     @Override
